@@ -1,4 +1,4 @@
-import { fontSizes } from '@ignite-ui/tokens'
+import { fontSizes } from '@ignite-design-system/tokens'
 import { ComponentProps } from '@stitches/react'
 import { ElementType } from 'react'
 
