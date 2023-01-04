@@ -1,0 +1,2 @@
+import{A as t}from"./index-77bc1d0f.js";import"./index-7cc2572b.js";import"./es.object.get-own-property-descriptor-3a7d61f2.js";import"./index-46fdd620.js";import"./jsx-runtime-c368ffdb.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/hugomarcelosilva.png",alt:"Hugo Marcelo"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-fbd8457f.js.map
