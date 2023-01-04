@@ -1,5 +1,11 @@
 # @ignite-design-system/react
 
+## 3.0.1
+
+### Patch Changes
+
+- new color added on tokens
+
 ## 3.0.0
 
 ### Major Changes
